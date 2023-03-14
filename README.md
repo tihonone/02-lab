@@ -1,8 +1,8 @@
 # 02-lab
 
-<h1>resulting automated scripts are included into repository</h1>
+
 <br>
-list of files:<br>
+<h2>list of files:</h2><br>
 Vagrantfile - hypervisor automation script for:
 <ul>
 	<li> building VM</li>
