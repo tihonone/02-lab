@@ -10,5 +10,6 @@ Vagrantfile - hypervisor automation script for:
 	<li> building raid 6</li>
 	<li> mapping disks to folders</li>
 </ul>
+raid.sh - file for building raid and mapping folders</br>
 <br>
 
